@@ -6,3 +6,21 @@ color: red;
 
 font-family: 'Open Sans', sans-serif;
 }
+
+
+header   { 
+    background-color: #4D41C0;
+    color: #ffff;
+}
+a, a:hover { 
+    text-decoration: nome;
+    color: unset;
+}
+
+nav {
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+
+}
